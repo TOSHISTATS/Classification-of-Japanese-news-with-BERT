@@ -14,13 +14,9 @@ https://toshistats.wordpress.com/2019/04/30/bert-performs-very-well-in-japanese-
 
 ### Evaluation results
 
-eval_accuracy = 0.92424244,
-eval_loss = 0.36567232,
-global_step = 198,
-loss = 0.53717786,
+test_accuracy = 0.8744,
 
-
-finetuned with data of livedoor news corpus (training 2114 samples, test 529 samples)
+finetuned with data of livedoor news corpus (training 3153 samples, test 826 samples)
 
 
 
