@@ -25,4 +25,5 @@ finetuned with data of livedoor news corpus (training 3153 samples, test 826 sam
 
 
 (1) livedoor news corpus CC BY-ND 2.1 JP
+https://creativecommons.org/licenses/by-nd/2.1/jp/
 
